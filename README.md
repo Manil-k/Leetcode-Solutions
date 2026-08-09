@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
