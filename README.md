@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0018-4sum) |
 ## Trie
 |  |
 | ------- |
@@ -36,8 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Manil-k/Leetcode-Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
